@@ -1,0 +1,63 @@
+.navs{
+    height: 50px;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.nav-six,.nav-two,.nav-three,.nav-four,.nav-five{
+    border-left: solid 2px rgba(255,255,255,.5);
+}
+.input{
+    width: 250px;
+    height: 23px;
+    margin-left: 180px;
+}
+.search{
+    background-color: rgb(228, 150, 163);
+    color:white;
+}
+.pink-heading{
+    color: rgb(228, 150, 163);
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.pink{
+    color: rgb(228, 150, 163);
+}
+.black-heading{
+    font-size: 50px;
+    line-height: 65px;
+}
+.padding-left{
+    padding-left: 150px;
+}
+.padding-top{
+    padding-top: 50px;
+}
+.textu{
+    color:rgb(105, 105, 105);
+    padding-top: 30px;
+}
+.image{
+    width: 600px;
+    padding-left: 20px;
+    margin-left: 22px;
+}
+.light-grey{
+    background-color: rgb(235, 235, 235);
+}
+.padding-top-extra{
+    padding-top: 120px;
+}
+.margin-top{
+    margin-top: 70px;
+}
+.padding-bottom{
+    padding-bottom: 150px;
+}
+.texta{
+    color:rgb(105, 105, 105);
+}
+.heading{
+    font-weight: 500;
+    font-size: 22px;
+}
